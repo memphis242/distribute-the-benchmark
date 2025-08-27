@@ -6,5 +6,5 @@ Web Stack:
 - React frontend
 - PostgreSQL Database
 
-Client Code (to run benchmarks):
+Client Code (to run benchmarks and communicate with the web API):
 - C++
